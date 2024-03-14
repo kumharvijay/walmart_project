@@ -1,4 +1,4 @@
-# Walmart Sales Analysis Project--
+# Walmart Sales
 
 ## Purposes Of The Project:
 
@@ -8,7 +8,7 @@
  The major aim of thie project is to gain insight into the sales data of Walmart to understand the different
  factors that affect sales of the different branches.
 
- # Steps of Data Analysis
+ ## Steps of Data Analysis
 1. Product Analysis
 
 > Conduct analysis on the data to understand the different product lines, the products lines performing best and the product lines that need to be improved.
